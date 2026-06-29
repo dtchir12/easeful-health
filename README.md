@@ -1,5 +1,5 @@
 # easeful-health
-free, evidence-based health apps and writing targeting the six most modifiable risk factors. easefulhealth.ca
+Free, evidence-based health apps and writing targeting the six most modifiable risk factors. easefulhealth.ca
 
 Everything is free at its core — built on the principle that healthy choices should be easier to reach, not harder.
 
@@ -15,7 +15,12 @@ Everything is free at its core — built on the principle that healthy choices s
 
 ## Apps
 
-- [BattleWalkers](https://easefulhealth.ca/privacy/battlewalkers/)
-- [StepWild](https://easefulhealth.ca/privacy/stepwild/)
-- [HundredFitness](https://easefulhealth.ca/privacy/hundredfitness/)
-- [WellbeingWatcher](https://easefulhealth.ca/privacy/wellbeingwatcher/)
+All apps are free on the Apple App Store.
+
+- BattleWalkers
+- StepWild
+- StepWild: FitTrials
+- HundredFitness
+- WellbeingWatcher
+
+[View all apps](https://easefulhealth.ca/#apps)
